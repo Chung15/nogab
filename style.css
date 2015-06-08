@@ -1,0 +1,17 @@
+body{
+
+background-image: url("greenbord.jpg") no-repeat;
+	
+ td{
+ 	
+	background: brown;
+	border: 3px solid;
+list-style-type:none;
+background:white;
+width: 200px;
+height: 30px;
+text-align: center;
+margin-top: 1px;
+text-shadow: 5px 5px 3px blank;
+box-shadow: 5px 10px 3px;
+ }
