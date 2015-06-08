@@ -3,10 +3,10 @@
 	
 	<meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
 <!--connecting js and jquery files-->
-	<link rel="stylesheet" type ="text/css" href="design.css"/>
-	<link rel="shortcut icon"  href="1.gif"/>
-	<script type="text/javascript" src="jquery-1.10.2.js"></script>
-	<script type="text/javascript" src="search1.js"></script>
+	<link rel="stylesheet" type ="text/css" href="./css/design.css"/>
+	<link rel="shortcut icon"  href="./img/1.gif"/>
+	<script type="text/javascript" src="./js/jquery-1.10.2.js"></script>
+	<script type="text/javascript" src="./js/search1.js"></script>
 
 	<title>No Gab</title>
 
@@ -20,13 +20,13 @@
 		<nav>
 		<ul sf-menu sf-js-enabled>
 			<li class="current">
-				<a href="home.html">home</a>
+				<a href="./html/home.html">home</a>
 			</li>
 			<li>
-				<a href="dictionary.html">Dictionary</a>
+				<a href="./html/dictionary.html">Dictionary</a>
 			</li>
 			<li class>
-				<a href="discover.html">Discover Gabon</a>
+				<a href="./html/discover.html">Discover Gabon</a>
 				<ul style="display:none;">
 					<li>
 						<a href="#">History</a>
@@ -43,7 +43,7 @@
 				</ul>
 			</li>
 			<li class>
-				<a href="discover.html">Culture</a>
+				<a href="./html/culture.html">Culture</a>
 				<ul style="display:none;">
 					<li>
 						<a href="#">People</a>
